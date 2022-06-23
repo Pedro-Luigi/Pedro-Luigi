@@ -2,16 +2,18 @@
 
 ###  Bem-vindo ao meu GitHub.
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Android" height="30" width="40" src="https://cdn.icon-icons.com/icons2/673/PNG/512/Android_icon-icons.com_60488.png">
+  <img align="center" alt="Pedro-Kotlin" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png">
+  <img align="center" alt="Pedro-AS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png">
+</div>
+
 <div align="center">
   <a href="https://github.com/Pedro-Luigi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Luigi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Luigi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+
 
 
