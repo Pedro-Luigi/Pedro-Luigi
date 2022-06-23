@@ -3,7 +3,6 @@
 ###  Bem-vindo ao meu GitHub.
 
   Sou apaixonado por desenvolvimento android nativo, a cada activity que eu faço me surpreendo mais com o Android!
-
 <div align="center"><br>
   <h4>Tecnologias e ferramentas que eu gosto de usar para desenvolver</h4>
 </div>
