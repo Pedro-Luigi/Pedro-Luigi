@@ -14,7 +14,7 @@
   <img align="center" alt="Pedro-AS" height="45" width="45" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png">
 </div>
 
-<br/>
+<br></br>
 
 <div align="center">
   <a href="https://github.com/Pedro-Luigi">
