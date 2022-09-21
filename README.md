@@ -3,6 +3,17 @@
 ###  Bem-vindo ao meu GitHub.
 
   Sou apaixonado por desenvolvimento android nativo, a cada activity que eu faço me surpreendo mais com o Android!
+  
+<div align="center">
+  <h4>Meus aplicativos na Google Play</h4>
+</div>
+<div align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.rezendeapps.worldcupsimulator">
+    <img align="center" alt="Pedro-Android" height="45" width="45" src="https://user-images.githubusercontent.com/68929840/191521999-b388c84f-654e-4985-b305-96473e2a7c72.png"/>
+    <h6>Copa do Mundo 2022 - Simulador</h6>
+</div>
+
+
 <div align="center"><br>
   <h4>Tecnologias e ferramentas que eu gosto de usar para desenvolver</h4>
 </div>
