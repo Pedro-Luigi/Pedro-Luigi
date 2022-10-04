@@ -10,13 +10,13 @@
 <div align="center">
     <a href="https://play.google.com/store/apps/details?id=com.rezendeapps.worldcupsimulator">
     <img align="center" alt="Pedro-Android" height="45" width="45" src="https://user-images.githubusercontent.com/68929840/191521999-b388c84f-654e-4985-b305-96473e2a7c72.png"/>
-    <h6>Copa do Mundo 2022 - Simulador</h6>
-    
+    <h6>Copa do Mundo 2022 - Simulador</h6> 
+</div>
+  <div align="center">
     <a href="https://play.google.com/store/apps/details?id=com.rezendeapps.qualeacapital">
     <img align="center" alt="QC-Android" height="45" width="45" src="https://user-images.githubusercontent.com/68929840/193842425-517fceb7-9d57-4ec7-90f9-c8aae9f5f5b9.png"/>
     <h6>Qual é a Capital? - Quiz</h6>
-    
-</div>
+  </div>
 
 
 <div align="center"><br>
