@@ -3,21 +3,19 @@
 ###  Bem-vindo ao meu GitHub.
 
   Sou apaixonado por desenvolvimento android nativo, a cada activity que eu faço me surpreendo mais com o Android!
-  
+
 <div align="center">
   <h4>Meus aplicativos na Google Play</h4>
 </div>
-<div align="center">
+
+  <div align="center">
     <a href="https://play.google.com/store/apps/details?id=com.rezendeapps.worldcupsimulator">
-    <img align="center" alt="Pedro-Android" height="45" width="45" src="https://user-images.githubusercontent.com/68929840/191521999-b388c84f-654e-4985-b305-96473e2a7c72.png"/>
-    <h6>Copa do Mundo 2022 - Simulador</h6> 
-</div>
+    <img align="center" alt="Pedro-Android" height="45" width="45" src="https://user-images.githubusercontent.com/68929840/194043796-a958eac1-c3c4-4ed0-84d1-7f5ef7c8705b.png"/>
+    <h6>Copa do Mundo 2022 - Simulador</h6></div>
   <div align="center">
     <a href="https://play.google.com/store/apps/details?id=com.rezendeapps.qualeacapital">
-    <img align="center" alt="QC-Android" height="45" width="45" src="https://user-images.githubusercontent.com/68929840/193842425-517fceb7-9d57-4ec7-90f9-c8aae9f5f5b9.png"/>
-    <h6>Qual é a Capital? - Quiz</h6>
-  </div>
-
+    <img align="center" alt="QC-Android" height="45" width="45" src="https://user-images.githubusercontent.com/68929840/194043658-700f890e-faad-406e-afeb-12dd4e2b6b4b.png"/>
+    <h6>Qual é a Capital? - Quiz</h6></div>
 
 <div align="center"><br>
   <h4>Tecnologias e ferramentas que eu gosto de usar para desenvolver</h4>
