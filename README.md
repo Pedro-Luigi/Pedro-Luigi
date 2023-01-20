@@ -7,7 +7,7 @@
 <div align="center">
   <h4>Meus aplicativos na Google Play</h4>
 </div>
-
+<div align="grid">
   <div align="center">
     <a href="https://play.google.com/store/apps/details?id=com.rezendeapps.worldcupsimulator">
     <img align="center" alt="Pedro-Android" height="45" width="45" src="https://user-images.githubusercontent.com/68929840/194043796-a958eac1-c3c4-4ed0-84d1-7f5ef7c8705b.png"/>
@@ -16,7 +16,7 @@
     <a href="https://play.google.com/store/apps/details?id=com.rezendeapps.qualeacapital">
     <img align="center" alt="QC-Android" height="45" width="45" src="https://user-images.githubusercontent.com/68929840/194043658-700f890e-faad-406e-afeb-12dd4e2b6b4b.png"/>
     <h6>Qual é a Capital? - Quiz</h6></div>
-
+</div>
 <div align="center"><br>
   <h4>Tecnologias e ferramentas que eu gosto de usar para desenvolver</h4>
 </div>
