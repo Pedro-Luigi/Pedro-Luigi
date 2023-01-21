@@ -1,41 +1,31 @@
-# 👋 Olá, meu nome é Pedro Luigi
+# 👋 Olá, meu nome é Pedro Rezende
 
 ###  Bem-vindo ao meu GitHub.
 
-  Sou apaixonado por desenvolvimento android nativo, a cada activity que eu faço me surpreendo mais com o Android!
-
-<div align="center">
-  <h4>Meus aplicativos na Google Play</h4>
+  Sou apaixonado por desenvolvimento android nativo, a cada activity que eu faço me surpreendo mais com o Android! Quer saber mais sobre mim? Clique no botão abaixo.
+<div align="center"> 
+  <a href="https://rezende-apps.web.app/" target="_blank"><img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c28d1061-95a7-44bf-b469-f6172ac28dfe/svg-arduino-pushbutton-image3.svg" target="_blank"></a>
 </div>
-<div align="grid">
-  <div align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.rezendeapps.worldcupsimulator">
-    <img align="center" alt="Pedro-Android" height="45" width="45" src="https://user-images.githubusercontent.com/68929840/194043796-a958eac1-c3c4-4ed0-84d1-7f5ef7c8705b.png"/>
-    <h6>Copa do Mundo 2022 - Simulador</h6></div>
-  <div align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.rezendeapps.qualeacapital">
-    <img align="center" alt="QC-Android" height="45" width="45" src="https://user-images.githubusercontent.com/68929840/194043658-700f890e-faad-406e-afeb-12dd4e2b6b4b.png"/>
-    <h6>Qual é a Capital? - Quiz</h6></div>
+<br>
+<div>
+  <a href="https://github.com/Pedro-Luigi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Luigi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Luigi&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div align="center"><br>
-  <h4>Tecnologias e ferramentas que eu gosto de usar para desenvolver</h4>
-</div>
-
-<div align="center"><br>
+<div align="center" style="display: inline_bloc;"><br>
   <img align="center" alt="Pedro-Android" height="45" width="45" src="https://cdn.icon-icons.com/icons2/673/PNG/512/Android_icon-icons.com_60488.png">
   <img align="center" alt="Pedro-Kotlin" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png">
   <img align="center" alt="Pedro-Java" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
   <img align="center" alt="Pedro-AS" height="45" width="45" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png">
 </div>
-
-<br></br>
-
-<div align="center">
-  <a href="https://github.com/Pedro-Luigi">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Luigi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Luigi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
-
+  <br>
+ 
+<div align="center"> 
+  <a href = "mailto:pedroluigi07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-luigi-rezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://play.google.com/store/apps/dev?id=5353446971547721787" target="_blank"><img src="https://img.shields.io/badge/-Google%20Play-green?style=for-the-badge&logo=googleplay&logoColor=white" target="_blank"></a> 
+</div>
+<img src="https://komarev.com/ghpvc/?username=Pedro-Luigi&color=red" alt="SaraTuma views" />
 
 
